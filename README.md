@@ -15,7 +15,7 @@ p.v.dommaraju@student.vu.nl
 - Tavneet Singh (2668222) 
 t.s.tavneet@student.vu.nl
 
-The full dataset including the source of the PWAs, android runner automation files, and the R scripts used for the data analysis.
+The results of the experiment with the addition of the source of the PWAs, android runner automation files and the R scripts used for the data analysis are included in this repository.
 
 The PWAS used in this experiment are hosted on Github Pages, and can be accessed through:
 
