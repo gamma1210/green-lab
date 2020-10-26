@@ -6,16 +6,12 @@ The project was conducted by:
 
 - Abhirup Mukherjee (2667243)
 a.mukherjee@student.vu.nl
-
 - Gamma Andhika O. (2669061) 
 g.a.o.octafarras@student.vu.nl
-
 - Neeraj Sathyan (2660192) 
 n.sathyan@student.vu.nl
-
 - Prashanth Dommaraju (2688076) 
 p.v.dommaraju@student.vu.nl
-
 - Tavneet Singh (2668222) 
 t.s.tavneet@student.vu.nl
 
